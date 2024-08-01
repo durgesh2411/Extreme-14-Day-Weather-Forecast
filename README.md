@@ -1,7 +1,7 @@
 
 
-# Sillicon Valley Chapter - Xtreme Weather Prediction
-<img src="src/visualizations/DALL·E 2024-04-17 13.15.30_XW.png">
+# Xtreme Weather Prediction
+
 
 
 
